@@ -1,0 +1,6 @@
+{
+  "go.languageServerFlags": [],
+  "go.lintFlags": ["--fast"],
+  "go.lintTool": "golangci-lint",
+  "go.lintOnSave": "file"
+}
